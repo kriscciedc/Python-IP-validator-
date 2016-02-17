@@ -4,6 +4,7 @@ import sys
 
 binary_octets = []
 
+# Verify number of arguments passed to script
 if len(sys.argv) != 2:
 	print "Invalid number of arguments"
 else:
